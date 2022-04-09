@@ -3,8 +3,8 @@
 namespace com\peterbodnar\bsqr\utils;
 
 use com\peterbodnar\bsqr\Exception;
-use com\peterbodnar\cmd\Command;
-use com\peterbodnar\cmd\CommandException;
+use com\peterbodnar\bsqr\cmd\Command;
+use com\peterbodnar\bsqr\cmd\CommandException;
 
 
 

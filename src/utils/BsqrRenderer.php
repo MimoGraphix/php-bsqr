@@ -3,7 +3,7 @@
 namespace com\peterbodnar\bsqr\utils;
 
 use com\peterbodnar\bsqr\Exception;
-use com\peterbodnar\svg\Svg;
+use com\peterbodnar\bsqr\svg\Svg;
 
 
 

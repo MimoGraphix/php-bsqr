@@ -2,8 +2,8 @@
 
 namespace com\peterbodnar\bsqr\utils;
 
-use com\peterbodnar\base32\Base32;
-use com\peterbodnar\base32\Base32Exception;
+use com\peterbodnar\bsqr\base32\Base32;
+use com\peterbodnar\bsqr\base32\Base32Exception;
 use com\peterbodnar\bsqr\Exception;
 use com\peterbodnar\bsqr\model;
 

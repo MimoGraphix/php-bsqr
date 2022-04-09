@@ -6,10 +6,10 @@ use com\peterbodnar\bsqr\model;
 use com\peterbodnar\bsqr\utils\BsqrCoder;
 use com\peterbodnar\bsqr\utils\BsqrCoderException;
 use com\peterbodnar\bsqr\utils\BsqrRenderer;
-use com\peterbodnar\mx2svg\MxToSvg;
-use com\peterbodnar\qrcoder\QrCoder;
-use com\peterbodnar\qrcoder\QrCoderException;
-use com\peterbodnar\svg\Svg;
+use com\peterbodnar\bsqr\mx2svg\MxToSvg;
+use com\peterbodnar\bsqr\qrcoder\QrCoder;
+use com\peterbodnar\bsqr\qrcoder\QrCoderException;
+use com\peterbodnar\bsqr\svg\Svg;
 
 
 
